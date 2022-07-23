@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: 8fd4a72219134fd4ebc3ea570feac9b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7011661911796687584
+    second: Road_0
+  - first:
+      213: -1327040941830986174
+    second: Road_1
+  - first:
+      213: 341726815534335866
+    second: Road_2
+  - first:
+      213: -9156105234983019131
+    second: Road_3
+  - first:
+      213: 7952162831368261598
+    second: Road_4
+  - first:
+      213: -1051987289298369614
+    second: Road_5
+  - first:
+      213: -4761944228523693652
+    second: Road_6
+  - first:
+      213: -2291289878801108978
+    second: Road_7
+  - first:
+      213: -4967339507104349617
+    second: Road_8
+  - first:
+      213: 7348036352636293528
+    second: Road_9
+  - first:
+      213: 4211497614530267102
+    second: Road_10
+  - first:
+      213: 4520941315823212252
+    second: Road_11
+  - first:
+      213: 2686845056676652513
+    second: Road_12
+  - first:
+      213: -395164576794110519
+    second: Road_13
+  - first:
+      213: 3808705679177394456
+    second: Road_14
+  - first:
+      213: -7205009153327736773
+    second: Road_15
+  - first:
+      213: 1304208510633726333
+    second: Pipe_0
+  - first:
+      213: 6754015500072955358
+    second: Pipe_1
+  - first:
+      213: 5565319975860587716
+    second: Pipe_2
+  - first:
+      213: -3179198009086737549
+    second: Pipe_3
+  - first:
+      213: 5140442098504291025
+    second: Pipe_4
+  - first:
+      213: -7756554324048723733
+    second: Pipe_5
+  - first:
+      213: -9047057993139015317
+    second: Pipe_6
+  - first:
+      213: 2247048469152365317
+    second: Pipe_7
+  - first:
+      213: 217714657261270952
+    second: Pipe_8
+  - first:
+      213: -8985806523146209483
+    second: Pipe_9
+  - first:
+      213: 8788376599843348477
+    second: Pipe_10
+  - first:
+      213: -1431141854684556911
+    second: Pipe_11
+  - first:
+      213: 8334059294929727375
+    second: Pipe_12
+  - first:
+      213: -2096178854759358363
+    second: Pipe_13
+  - first:
+      213: 4859829354797837358
+    second: Pipe_14
+  - first:
+      213: -2692219915020169465
+    second: Pipe_15
+  - first:
+      213: -4057977143843180069
+    second: Farm_0
+  - first:
+      213: -553748099277681658
+    second: Farm_1
+  - first:
+      213: -2073196103491603353
+    second: Farm_2
+  - first:
+      213: 1311939846730438687
+    second: Farm_3
+  - first:
+      213: -3272529604113645564
+    second: Farm_4
+  - first:
+      213: -3560907591549757672
+    second: Farm_5
+  - first:
+      213: -4562482267826322406
+    second: Farm_6
+  - first:
+      213: -2267087822962173421
+    second: Farm_7
+  - first:
+      213: 5273033750629254866
+    second: Farm_8
+  - first:
+      213: 5604373937641721280
+    second: Farm_9
+  - first:
+      213: -7195745283617418987
+    second: Farm_10
+  - first:
+      213: 8518121210494748150
+    second: Farm_11
+  - first:
+      213: -4518821355959930577
+    second: Farm_12
+  - first:
+      213: 7334723496732485779
+    second: Farm_13
+  - first:
+      213: -6049698249633635182
+    second: Farm_14
+  - first:
+      213: -7842303050106072554
+    second: Farm_15
+  - first:
+      213: 6425791515245872027
+    second: FarmGrowing_0
+  - first:
+      213: -2102208677245790020
+    second: FarmGrowing_1
+  - first:
+      213: -1805100938174549126
+    second: FarmGrowing_2
+  - first:
+      213: 5759529362231975276
+    second: FarmGrowing_3
+  - first:
+      213: -3376663288148331216
+    second: FarmGrowing_4
+  - first:
+      213: 5527678738227733441
+    second: FarmGrowing_5
+  - first:
+      213: 3417564715854358522
+    second: FarmGrowing_6
+  - first:
+      213: -8135349445306648497
+    second: FarmGrowing_7
+  - first:
+      213: -1086025160426075759
+    second: FarmGrowing_8
+  - first:
+      213: 7973429169073757440
+    second: FarmGrowing_9
+  - first:
+      213: -6198326238083465285
+    second: FarmGrowing_10
+  - first:
+      213: -9178463989531648254
+    second: FarmGrowing_11
+  - first:
+      213: -2864497430528935548
+    second: FarmGrowing_12
+  - first:
+      213: 6847595823109649640
+    second: FarmGrowing_13
+  - first:
+      213: -6189340194315302244
+    second: FarmGrowing_14
+  - first:
+      213: -1073666772599988
+    second: FarmGrowing_15
+  - first:
+      213: -3041952400010695788
+    second: PlantationOfCottonGrowing_0
+  - first:
+      213: 7111441537246199597
+    second: PlantationOfCottonGrowing_1
+  - first:
+      213: 3243729917328779949
+    second: PlantationOfCottonGrowing_2
+  - first:
+      213: 4297983447311907014
+    second: PlantationOfCottonGrowing_3
+  - first:
+      213: 1277850660472138995
+    second: PlantationOfCottonGrowing_4
+  - first:
+      213: 7983743971740762158
+    second: PlantationOfCottonGrowing_5
+  - first:
+      213: -9097654425498166694
+    second: PlantationOfCottonGrowing_6
+  - first:
+      213: 5327849620606899358
+    second: PlantationOfCottonGrowing_7
+  - first:
+      213: -5593081627225022141
+    second: PlantationOfCottonGrowing_8
+  - first:
+      213: -2391050030316655748
+    second: PlantationOfCottonGrowing_9
+  - first:
+      213: 7406349180857071443
+    second: PlantationOfCottonGrowing_10
+  - first:
+      213: 3421057473903332162
+    second: PlantationOfCottonGrowing_11
+  - first:
+      213: 6473096455076289886
+    second: PlantationOfCottonGrowing_12
+  - first:
+      213: 5645868957922512427
+    second: PlantationOfCottonGrowing_13
+  - first:
+      213: -4221271115047124036
+    second: PlantationOfCottonGrowing_14
+  - first:
+      213: 8972211881304965950
+    second: PlantationOfCottonGrowing_15
+  - first:
+      213: 8490937501151575256
+    second: PlantationOfHopGrowing_0
+  - first:
+      213: -45717305104591328
+    second: PlantationOfHopGrowing_1
+  - first:
+      213: -2006028927227180003
+    second: PlantationOfHopGrowing_2
+  - first:
+      213: 298056675586078680
+    second: PlantationOfHopGrowing_3
+  - first:
+      213: 8386201930384920125
+    second: PlantationOfHopGrowing_4
+  - first:
+      213: 5644766025446307877
+    second: PlantationOfHopGrowing_5
+  - first:
+      213: -8379125185849719232
+    second: PlantationOfHopGrowing_6
+  - first:
+      213: 7690141927887056858
+    second: PlantationOfHopGrowing_7
+  - first:
+      213: 5053745003314635270
+    second: PlantationOfHopGrowing_8
+  - first:
+      213: -3573399459271613505
+    second: PlantationOfHopGrowing_9
+  - first:
+      213: 9130381254642064484
+    second: PlantationOfHopGrowing_10
+  - first:
+      213: -1634338395800837727
+    second: PlantationOfHopGrowing_11
+  - first:
+      213: -5983468033240516775
+    second: PlantationOfHopGrowing_12
+  - first:
+      213: -3153350975470009959
+    second: PlantationOfHopGrowing_13
+  - first:
+      213: -1333455612530633714
+    second: PlantationOfHopGrowing_14
+  - first:
+      213: -971268922528252591
+    second: PlantationOfHopGrowing_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcbe2e9baed5d570800000000000000
+      internalID: 8490937501151575256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026172d6a549d5ff0800000000000000
+      internalID: -45717305104591328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c477fa1572924e0800000000000000
+      internalID: -2006028927227180003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7fd3f97f8e22400800000000000000
+      internalID: 298056675586078680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec9434936c16470800000000000000
+      internalID: 8386201930384920125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528bbeafacc365e40800000000000000
+      internalID: 5644766025446307877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04606e8b90e57bb80800000000000000
+      internalID: -8379125185849719232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfab0cd65fd8ba60800000000000000
+      internalID: 7690141927887056858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60269fbfd42822640800000000000000
+      internalID: 5053745003314635270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3ea8ddf1cb86ec0800000000000000
+      internalID: -3573399459271613505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c53d25061a5be70800000000000000
+      internalID: 9130381254642064484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1628b53e9a159e0800000000000000
+      internalID: -1634338395800837727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573bc9868376fca0800000000000000
+      internalID: -5983468033240516775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9918af6befb0d34d0800000000000000
+      internalID: -3153350975470009959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e045c537f2d9e7de0800000000000000
+      internalID: -1333455612530633714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantationOfHopGrowing_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15db35b9f0c5582f0800000000000000
+      internalID: -971268922528252591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

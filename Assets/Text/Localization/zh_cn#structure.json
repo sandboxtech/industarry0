@@ -1,0 +1,285 @@
+{
+
+	"Weathering.StarBlue": "【蓝色恒星】",
+	"Weathering.StarWhite": "【白色恒星】",
+	"Weathering.StarYellow": "【黄色恒星】",
+	"Weathering.StarOrange": "【橙色恒星】",
+	"Weathering.StarRed": "【红色恒星】",
+
+	"Weathering.PlanetContinental": "【类地星球】",
+	"Weathering.PlanetBarren": "【荒芜星球】",
+	"Weathering.PlanetFrozen": "【冰冻星球】",
+	"Weathering.PlanetOcean": "【海洋星球】",
+	"Weathering.PlanetArid": "【干旱星球】",
+	"Weathering.PlanetMolten": "【熔岩星球】",
+
+	"Weathering.PlanetGaia": "【盖亚星球】",
+	"Weathering.PlanetSuperDimensional": "【超维星球】",
+	
+	"Weathering.GasGiant": "【气态巨行星】",
+	"Weathering.GasGiantRinged": "【气态巨行星】",
+	"Weathering.Asteroid": "【小行星】",
+	"Weathering.SpaceEmptiness": "【虚空】",
+
+
+
+
+
+	
+
+	"Weathering.TerrainType_Plain": "<color=#FFFFFFFF>【平原】</color>",
+	"Weathering.TerrainType_Mountain": "<color=#FFFFFFFF>【山地】</color>",
+	"Weathering.TerrainType_Sea": "<color=#FFFFFFFF>【海洋】</color>",
+	"Weathering.TerrainType_Forest": "<color=#FFFFFFFF>【森林】</color>",
+
+
+
+
+
+
+	"Weathering.PlanetLander": "【飞船】",
+
+
+	"Weathering.Pyramid": "<color=#c69f27FF>【金字塔】</color>",
+	"Weathering.MagicSchool": "<color=#ccccccFF>【魔法学院】</color>",
+	"Weathering.WallOfStoneBrick": "<color=#ccccccFF>【“墙??”】</color>",
+	"Weathering.Wardenclyffe": "<color=#ccccccFF>【特斯拉塔】</color>",
+	"Weathering.Torii": "<color=#FF3333FF>【鸟居?】</color>",
+	"Weathering.Wardrobe": "<color=#ccccccFF>【衣柜】</color>",
+	"Weathering.Television": "<color=#ccccccFF>【旧世界电视】</color>",
+
+
+
+
+	"Weathering.TotemOfNature": "<color=#ffff66FF>【七日神像】</color>",
+	"Weathering.TotemOfAncestors": "<color=#ffff66FF>【祖先雕像】</color>",
+	"Weathering.LibraryOfAll": "<color=#D2A064FF>【大图书馆】</color>",
+		"Weathering.WorkshopOfBook": "<color=#D2A064FF>【书本装订工坊】</color>",
+		"Weathering.WorkshopOfBookWithNote": "<color=#D2A064FF>【纸笔研究所】</color>",
+		"Weathering.WorkshopOfBookWithNoteAdvanced": "<color=#D2A064FF>【实验研究所】</color>",
+		"Weathering.LibraryOfAgriculture": "<color=#D2A064FF>【农业图书馆】</color>",
+		"Weathering.LibraryOfClothing": "<color=#D2A064FF>【杂项图书馆】</color>",
+		"Weathering.BerryBush_Clothed": "<color=#FF759CFF>【植物图书馆】</color>",
+		"Weathering.BerryBush_Clothed_Clothing": "<color=#FF759CFF>【浆果装扮】</color>",
+		"Weathering.BerryBush_Clothed_Residence": "<color=#FF759CFF>【浆果小屋】</color>",
+		"Weathering.BerryBush_Clothed_Tree": "<color=#FF759CFF>【浆果树】</color>",
+		"Weathering.Pasture_Clothed": "<color=#D2A064FF>【畜牧图书馆】</color>",
+		"Weathering.Pasture_Clothed_Clothing": "<color=#D2A064FF>【牛仔装扮】</color>",
+		"Weathering.Scarecrow_Clothed": "<color=#D2A064FF>【居家图书馆】</color>",
+		"Weathering.Scarecrow_Clothed_Clothing": "<color=#FFFFFFFF>【稻草人装扮】</color>",
+
+		"Weathering.FloppyDisk": "<color=#FFFFFFFF>【(不可获得的)软盘】</color>",
+
+		"Weathering.LibraryOfGeography": "<color=#D2A064FF>【地理图书馆】</color>",
+		"Weathering.LibraryOfEconomy": "<color=#D2A064FF>【市场图书馆】</color>",
+		"Weathering.LibraryOfHandcraft": "<color=#D2A064FF>【工艺图书馆】</color>",
+		"Weathering.LibraryOfLogistics": "<color=#D2A064FF>【物流图书馆】</color>",
+		"Weathering.LibraryOfConstruction": "<color=#D2A064FF>【建筑图书馆】</color>",
+		"Weathering.LibraryOfMetalWorking": "<color=#D2A064FF>【冶金图书馆】</color>",
+	"Weathering.SchoolOfAll": "<color=#ccccccFF>【大学】</color>",
+		"Weathering.WorkshopOfSchoolEquipment": "<color=#9fa89dFF>【实验设备厂】</color>",
+		"Weathering.SchoolOfBiology": "<color=#ccccccFF>【生物学园】</color>",
+		"Weathering.SchoolOfGeology": "<color=#ccccccFF>【地质学园】</color>",
+		"Weathering.SchoolOfEngineering": "<color=#ccccccFF>【工程学园】</color>",
+		"Weathering.SchoolOfConstruction": "<color=#ccccccFF>【建筑学园】</color>",
+		"Weathering.SchoolOfChemistry": "<color=#ccccccFF>【化学学园】</color>",
+		"Weathering.SchoolOfLogistics": "<color=#ccccccFF>【物流学园】</color>",
+		"Weathering.SchoolOfPhysics": "<color=#ccccccFF>【物理学园】</color>",
+		"Weathering.SchoolOfElectronics": "<color=#ccccccFF>【电子学园】</color>",
+		"Weathering.SchoolOfSpace": "<color=#ccccccFF>【宇航学园】</color>",
+
+
+
+	"Weathering.RecycleStation": "<color=#ccccccFF>【废品回收站】</color>",
+	"Weathering.CellarForPersonalStorage": "<color=#ccccccFF>【地窖】</color>",
+	"Weathering.MarketForPlayer": "<color=#ffff00FF>【市场】</color>",
+		"Weathering.MarketOfAgriculture": "<color=#ffff00FF>【农产品市场】</color>",
+		"Weathering.MarketOfMineral": "<color=#ffff00FF>【矿石市场】</color>",
+		"Weathering.MarketOfHandcraft": "<color=#ffff00FF>【手工艺市场】</color>",
+		"Weathering.MarketOfMetalProduct": "<color=#ffff00FF>【金属制品市场】</color>",
+
+
+
+
+
+
+	"Weathering.CheatHouse": "<color=#FFFFFFFF>【作弊点】</color>",
+	"Weathering.AESReward": "<color=#FFFFFFFF>【作弊码兑换处】</color>",
+	"Weathering.PublicGiftPackRewardItem": "<color=#FFFF00FF>《玩家证明》</color>",
+	"Weathering.PublicGiftPackRewardItemDescription": "<color=#FFFFFFFF>一张纸条，上面印着: “兹有我公司员工xxx·xxxx，员工编号xxxxxxxxxxxxxxxxxx，在我司工作x年，任职xxxx部门xxxxxx（职位），月收入为1000瓶盖。</color>”",
+	"Weathering.PrivateGiftPackRewardItem": "<color=#FFFF00FF>《荣誉奖状》</color>",
+	"Weathering.PrivateGiftPackRewardItemDescription": "<color=#FFFFFFFF>某位充值了一个亿的玩家知道了作弊码的答案</color>",
+
+
+	"Weathering.ResetCooldown": "<color=#FFFFFFFF>【时间充能】</color>",
+	"Weathering.ResetResidenceOfGrass": "<color=#EACDA5FF>【草屋 (天赋)】</color>",
+	"Weathering.ResetResidenceOfBrick": "<color=#EACDA5FF>【砖屋 (天赋)】</color>",
+	"Weathering.ResetFarm": "<color=#EACDA5FF>【农场 (天赋)】</color>",
+	"Weathering.ResetWorkshopOfToolPrimitive": "<color=#EACDA5FF>【工具工坊 (天赋)】</color>",
+	"Weathering.ResetWorkshopOfMachinePrimitive": "<color=#EACDA5FF>【机械工坊 (天赋)】</color>",
+	"Weathering.ResetFactoryOfLightMaterial": "<color=#EACDA5FF>【轻质材料工厂 (天赋)】</color>",
+	"Weathering.ResetFactoryOfCircuitBoardAdvanced": "<color=#EACDA5FF>【高端电子芯片厂 (天赋)】</color>",
+
+
+
+	"Weathering.RoadForSolid": "<color=#FFFFFFFF>【道路】</color>",
+	"Weathering.RoadOfStone": "<color=#FFFFFFFF>【石砖路】</color>",
+	"Weathering.RoadOfConcrete": "<color=#FFFFFFFF>【水泥路】</color>",
+	"Weathering.RoadOfConcreteAsBridge": "<color=#FFFFFFFF>【水泥桥梁】</color>",
+	"Weathering.RoadAsBridge": "<color=#FFFFFFFF>【桥梁】</color>",
+	"Weathering.RoadForFluid": "<color=#FFFFFFFF>【管道】</color>",
+	"Weathering.RoadAsTunnel": "<color=#FFFFFFFF>【隧道】</color>",
+	"Weathering.RoadAsTunnelAdvanced": "<color=#FFFFFFFF>【水泥隧道】</color>",
+
+	"Weathering.RoadAsRailRoad": "<color=#FFFFFFFF>【铁路】</color>",
+	"Weathering.RoadLoaderOfRoadAsRailRoad": "<color=#FFFFFFFF>【火车站】</color>",
+	"Weathering.IRoadAsRailRoad_CanLinkWith": "<color=#FFFFFFFF>【火车站】</color>",
+
+	"Weathering.RoadAsCanal": "<color=#FFFFFFFF>【运河】</color>",
+	"Weathering.RoadLoaderOfRoadAsCanal": "<color=#FFFFFFFF>【运河码头】</color>",
+	"Weathering.IRoadAsCanalRoad_CanLinkWith": "<color=#FFFFFFFF>【运河码头】</color>",
+
+
+
+
+	"Weathering.WareHouse": "【仓库】",
+	"Weathering.WareHouseOfGrass": "<color=#ECFD3DFF>【茅草墙仓库】</color>",
+	"Weathering.WareHouseOfWood": "<color=#D2A064FF>【木板墙仓库】</color>",
+	"Weathering.WareHouseOfStone": "<color=#ccccccFF>【石砖墙仓库】</color>",
+	"Weathering.WareHouseOfBrick": "<color=#c77b71FF>【红砖墙仓库】</color>",
+	"Weathering.WareHouseOfConcrete": "<color=#ccccccFF>【水泥墙仓库】</color>",
+	"Weathering.WareHouseOfBuildingPrefabrication": "<color=#ccccccFF>【钢筋水泥墙仓库】</color>",
+	"Weathering.WareHouseOfLightMaterial": "<color=#ccccccFF>【轻质材料墙仓库】</color>",
+
+	"Weathering.TransportStationSimpliest": "【手推车运输站-起点】",
+	"Weathering.TransportStationDestSimpliest": "【手推车运输站-终点】",
+	"Weathering.TransportStationPort": "【港口-起点】",
+	"Weathering.TransportStationDestPort": "【港口-终点】",
+	"Weathering.TransportStationAirport": "【机场-起点】",
+	"Weathering.TransportStationDestAirport": "【机场-终点】",
+
+	"Weathering.ResidenceOfGrass": "<color=#EACDA5FF>【草屋】</color>",
+	"Weathering.ResidenceOfWood": "<color=#D2A064FF>【木屋】</color>",
+	"Weathering.ResidenceOfStone": "<color=#ccccccFF>【石屋】</color>",
+	"Weathering.ResidenceOfBrick": "<color=#c77b71FF>【砖屋】</color>",
+	"Weathering.ResidenceOfConcrete": "<color=#ccccccFF>【水泥屋】</color>",
+	"Weathering.ResidenceOfApartment": "<color=#ccccccFF>【钢混公寓】</color>",
+	"Weathering.ResidenceOfSkyscraper": "<color=#ccccccFF>【摩天大楼】</color>",
+	"Weathering.ResidenceOfTruth": "<color=#ccccccFF>【真理公寓】</color>",
+
+	"Weathering.PrisonOfTruth": "<color=#ccccccFF>【真理劳改部】</color>",
+
+	"Weathering.FarmHydroponics": "<color=#ECFD3DFF>【水培小麦温室】</color>",
+	"Weathering.BerryBushHydroponics": "<color=#ECFD3DFF>【水培浆果温室】</color>",
+
+	"Weathering.Farm": "<color=#ECFD3DFF>【农场】</color>",
+	"Weathering.PlantationOfCotton": "<color=#FFFFFFFF>【棉花种植园】</color>",
+	"Weathering.Pasture": "<color=#ECFD3DFF>【牧场】</color>",
+	"Weathering.PastureOfSheep": "<color=#ECFD3DFF>【羊圈】</color>",
+	"Weathering.Hennery": "<color=#ECFD3DFF>【鸡场】</color>",
+	"Weathering.BerryBush": "<color=#FF759CFF>【浆果丛】</color>",
+	"Weathering.HuntingGround": "<color=#FF7F76FF>【猎场】</color>",
+	"Weathering.ForestLoggingCamp": "<color=#D2A064FF>【木材场】</color>",
+	"Weathering.SeaFishery": "<color=#B1CFFFFF>【渔场】</color>",
+
+	"Weathering.PastureAdvancedOfSheep": "<color=#ECFD3DFF>【羊圈】</color>",
+	"Weathering.PastureAdvancedOfCow": "<color=#ECFD3DFF>【养牛场】</color>",
+	"Weathering.PastureAdvancedOfHen": "<color=#ECFD3DFF>【养鸡场】</color>",
+	"Weathering.PastureAdvancedOfPig": "<color=#ECFD3DFF>【养猪场】</color>",
+
+	"Weathering.SpinningWheel": "<color=#FFFFFFFF>【纺车】</color>",
+
+	"Weathering.MountainQuarry": "<color=#ccccccFF>【采石场】</color>",
+	"Weathering.MountainMine": "<color=#FFFFFFFF>【采矿场】</color>",
+		"Weathering.MineOfClay": "<color=#8f8f8fFF>【粘土场】</color>",
+		"Weathering.MineOfSand": "<color=#8f8f8fFF>【采砂场】</color>",
+		"Weathering.MineOfSalt": "<color=#8f8f8fFF>【盐矿场】</color>",
+		"Weathering.MineOfGold": "<color=#ffff00FF>【金矿场】</color>",
+		"Weathering.MineOfCopper": "<color=#c97648FF>【铜矿场】</color>",
+		"Weathering.MineOfIron": "<color=#9fa89dFF>【铁矿场】</color>",
+		"Weathering.MineOfAluminum": "<color=#ddddddFF>【铝土矿】</color>",
+		"Weathering.MineOfCoal": "<color=#8f8f8fFF>【煤矿场】</color>",
+
+	"Weathering.WorkshopOfMetalSmelting": "<color=#D2A064FF>【冶炼厂】</color>",
+	"Weathering.WorkshopOfMetalCasting": "<color=#D2A064FF>【铸造厂】</color>",
+
+		"Weathering.WorkshopOfCopperSmelting": "<color=#c97648FF>【铜冶炼厂】</color>",
+		"Weathering.WorkshopOfIronSmelting": "<color=#9fa89dFF>【铁冶炼厂】</color>",
+		"Weathering.WorkshopOfCopperCasting": "<color=#c97648FF>【铜器铸造厂】</color>",
+		"Weathering.WorkshopOfIronCasting": "<color=#9fa89dFF>【铁器铸造厂】</color>",
+		"Weathering.WorkshopOfSteelWorking": "<color=#ccccccFF>【钢冶炼厂】</color>",
+		"Weathering.FactoryOfCopperSmelting": "<color=#c97648FF>【铜冶炼厂(电力)】</color>",
+		"Weathering.FactoryOfIronSmelting": "<color=#9fa89dFF>【铁冶炼厂(电力)】</color>",
+		"Weathering.FactoryOfSteelWorking": "<color=#ccccccFF>【钢冶炼厂(电力)】</color>",
+		"Weathering.FactoryOfAluminiumWorking": "<color=#ddddddFF>【铝冶炼厂(电力)】</color>",
+
+		"Weathering.FactoryOfSteelPlate": "<color=#ddddddFF>【钢板铸造场】</color>",
+		"Weathering.FactoryOfSteelPipe": "<color=#ddddddFF>【钢管铸造场】</color>",
+		"Weathering.FactoryOfSteelRod": "<color=#ddddddFF>【钢杆铸造场】</color>",
+		"Weathering.FactoryOfSteelWire": "<color=#ddddddFF>【钢丝铸造场】</color>",
+		"Weathering.FactoryOfSteelGear": "<color=#ddddddFF>【钢零件铸造场】</color>",
+
+		"Weathering.WorkshopOfPaperMaking": "<color=#D2A064FF>【造纸工坊】</color>",
+		"Weathering.WorkshopOfWoodcutting": "<color=#D2A064FF>【木板工坊】</color>",
+		"Weathering.WorkshopOfStonecutting": "<color=#ccccccFF>【石砖工坊】</color>",
+		"Weathering.WorkshopOfToolPrimitive": "<color=#ccccccFF>【工具工坊】</color>",
+		"Weathering.WorkshopOfWheelPrimitive": "<color=#ccccccFF>【车轮工坊】</color>",
+
+
+		"Weathering.ResidenceCoastal": "<color=#D2A064FF>【海滨木屋】</color>",
+		"Weathering.ResidenceOverTree": "<color=#D2A064FF>【树屋】</color>",
+
+		"Weathering.WorkshopOfBrickMaking": "<color=#c77b71FF>【红砖工坊】</color>",
+		"Weathering.WorkshopOfMachinePrimitive": "<color=#9fa89dFF>【机械工坊】</color>",
+		"Weathering.WorkshopOfConcrete": "<color=#ccccccFF>【水泥厂】</color>",
+		"Weathering.WorkshopOfBuildingPrefabrication": "<color=#ccccccFF>【建筑框架厂】</color>",
+		"Weathering.FactoryOfLightMaterial": "<color=#ccccccFF>【轻质材料厂】</color>",
+
+		"Weathering.FactoryOfCombustionMotor": "<color=#ccccccFF>【内燃机厂】</color>",
+		"Weathering.FactoryOfPermanentMagnet": "<color=#ccccccFF>【永磁铁厂】</color>",
+		"Weathering.FactoryOfElectroMotor": "<color=#ccccccFF>【电动机厂】</color>",
+		"Weathering.FactoryOfTurbine": "<color=#ccccccFF>【涡轮发动机厂】</color>",
+
+		"Weathering.FactoryOfWindTurbineComponent": "<color=#ccccccFF>【风力电站组件厂】</color>",
+		"Weathering.FactoryOfSolarPanelComponent": "<color=#ccccccFF>【太阳能电站组件厂】</color>",
+
+
+	"Weathering.PowerPlant": "<color=#ECFD3DFF>【发电厂】</color>",
+		"Weathering.PowerGeneratorOfLove": "<color=#ECFD3DFF>【用爱发电厂】</color>",
+		"Weathering.PowerGeneratorOfWood": "<color=#ECFD3DFF>【木材发电厂】</color>",
+		"Weathering.PowerGeneratorOfCoal": "<color=#ECFD3DFF>【燃煤发电厂】</color>",
+		"Weathering.PowerGeneratorOfLiquefiedPetroleumGas": "<color=#ECFD3DFF>【燃气发电厂】</color>",
+		"Weathering.PowerGeneratorOfNulearFissionEnergy": "<color=#ECFD3DFF>【核裂变发电厂】</color>",
+		"Weathering.PowerGeneratorOfNulearFusionEnergy": "<color=#ECFD3DFF>【核聚变发电厂】</color>",
+		"Weathering.PowerGeneratorOfSolarPanelStation": "<color=#ECFD3DFF>【太阳能发电站】</color>",
+		"Weathering.PowerGeneratorOfWindTurbineStation": "<color=#ECFD3DFF>【风力发电站】</color>",
+
+	"Weathering.OilDriller": "<color=#8f8f8f>【石油钻井】</color>",
+	"Weathering.OilDrillerOnSea": "<color=#8f8f8f>【海上石油钻井平台】</color>",
+	"Weathering.SeaWaterPump": "<color=#8f8f8f>【海水泵】</color>",
+
+	"Weathering.FactoryOfPetroleumRefining": "<color=#8f8f8fFF>【原油精炼厂】</color>",
+	"Weathering.FactoryOfHeavyOilCracking": "<color=#6c2d00ff>【重油裂解厂】</color>",
+	"Weathering.FactoryOfLightOilCracking": "<color=#cf8100ff>【轻油裂解厂】</color>",
+	"Weathering.FactoryOfPlastic": "<color=#ccccccFF>【塑料厂】</color>",
+	"Weathering.FactoryOfJetFuel": "<color=#ccccccFF>【航空燃油厂】</color>",
+
+	"Weathering.FactoryOfFuelPack_Oxygen_Hydrogen": "<color=#ccccccFF>【燃料包-液氧-液氢-化工厂】</color>",
+	"Weathering.FactoryOfFuelPack_Oxygen_JetFuel": "<color=#ccccccFF>【燃料包-液氧-燃油-化工厂】</color>",
+
+	"Weathering.FactoryOfElectrolysisOfWater": "<color=#ccccccFF>【水电解厂】</color>",
+	"Weathering.FactoryOfElectrolysisOfSaltedWater": "<color=#ccccccFF>【盐水电解厂】</color>",
+	"Weathering.FactoryAsAirSeparator": "<color=#ccccccFF>【空气分离厂】</color>",
+	"Weathering.FactoryOfDesalination": "<color=#ccccccFF>【海水淡化厂】</color>",
+
+	"Weathering.FactoryOfConductorOfCopperWire": "<color=#ccccccFF>【铜导线厂】</color>",
+	"Weathering.FactoryOfCircuitBoardSimple": "<color=#ccccccFF>【简易电路板厂】</color>",
+	"Weathering.FactoryOfCircuitBoardIntegrated": "<color=#ccccccFF>【集成电路板厂】</color>",
+	"Weathering.FactoryOfCircuitBoardAdvanced": "<color=#ccccccFF>【高端电子芯片厂】</color>",
+
+	"Weathering.MarketForSpaceProgram": "<color=#cf8100ff>【太空项目赞助市场】</color>",
+	"Weathering.LaunchSite": "<color=#ccccccFF>【发射台】</color>",
+	"Weathering.SpaceElevator": "<color=#ccccccFF>【太空电梯-上传点】</color>",
+	"Weathering.SpaceElevatorDest": "<color=#ccccccFF>【太空电梯-下载点】</color>"
+  }
+

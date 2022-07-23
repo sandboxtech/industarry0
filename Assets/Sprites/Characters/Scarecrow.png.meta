@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 754af02c8cbb7294199a0989cf00621c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4549871927518758641
+    second: Test_0
+  - first:
+      213: -8476044083614416924
+    second: Test_1
+  - first:
+      213: -2479046135300248059
+    second: Test_2
+  - first:
+      213: -5536345340400769029
+    second: Test_3
+  - first:
+      213: 2337254253927600879
+    second: Test_4
+  - first:
+      213: 2441583104936150541
+    second: Test_5
+  - first:
+      213: -6001904153802634705
+    second: Test_6
+  - first:
+      213: -4701440625830361436
+    second: Test_7
+  - first:
+      213: -4887816764681692791
+    second: Test_8
+  - first:
+      213: -8769109801199318823
+    second: Test_9
+  - first:
+      213: 5000847956254086587
+    second: Test_10
+  - first:
+      213: 3481455456101767426
+    second: Test_11
+  - first:
+      213: 9125901233104021195
+    second: Test_12
+  - first:
+      213: -4956597565245982405
+    second: Test_13
+  - first:
+      213: 5975961064464007298
+    second: Test_14
+  - first:
+      213: -582070997170272382
+    second: Test_15
+  - first:
+      213: -4098494244871452582
+    second: Test_16
+  - first:
+      213: -7002723028714408125
+    second: Test_17
+  - first:
+      213: 5142324551309305353
+    second: Test_18
+  - first:
+      213: -2061076771298858877
+    second: Test_19
+  - first:
+      213: -7520702575244758185
+    second: Test_20
+  - first:
+      213: -7538117106720847946
+    second: Test_21
+  - first:
+      213: 3156749119612586202
+    second: Test_22
+  - first:
+      213: -6561954427759259996
+    second: Test_23
+  - first:
+      213: 8836635438018214562
+    second: Test_0
+  - first:
+      213: -3887036393776790426
+    second: Test_1
+  - first:
+      213: 6108558676074264711
+    second: Test_2
+  - first:
+      213: 2248005479866514899
+    second: Test_3
+  - first:
+      213: 7994512101089376225
+    second: Test_6
+  - first:
+      213: 601032796489316636
+    second: Test_7
+  - first:
+      213: 5621883792684134663
+    second: Test_8
+  - first:
+      213: 2899948949987855741
+    second: Test_9
+  - first:
+      213: -6518844427492908856
+    second: Test_12
+  - first:
+      213: -3907389401333547326
+    second: Test_13
+  - first:
+      213: 9147522720832617909
+    second: Test_14
+  - first:
+      213: 600881205355959654
+    second: Test_15
+  - first:
+      213: -5539339248057406958
+    second: Character_Default_0
+  - first:
+      213: 5485162581661610915
+    second: Character_Default_1
+  - first:
+      213: -1367080595257509768
+    second: Character_Default_2
+  - first:
+      213: -4140811388199583166
+    second: Character_Default_3
+  - first:
+      213: 8185197559447968338
+    second: Character_Default_4
+  - first:
+      213: -4038956637837660831
+    second: Character_Default_5
+  - first:
+      213: 7001524028445667174
+    second: Character_Default_6
+  - first:
+      213: -4612272621110474220
+    second: Character_Default_7
+  - first:
+      213: 203427225087978909
+    second: Character_Default_8
+  - first:
+      213: 226613500027026124
+    second: Character_Default_9
+  - first:
+      213: -4488842121606518959
+    second: Character_Default_10
+  - first:
+      213: 4065787115715457511
+    second: Character_Default_11
+  - first:
+      213: 3221282520879574652
+    second: Character_Default_12
+  - first:
+      213: 1385021429078691606
+    second: Character_Default_13
+  - first:
+      213: -4457105680938648138
+    second: Character_Default_14
+  - first:
+      213: -1051384126290894505
+    second: Character_Default_15
+  - first:
+      213: 7208014375415968472
+    second: Scarecrow_0
+  - first:
+      213: -3959160474584310100
+    second: Scarecrow_1
+  - first:
+      213: 8137017750165726945
+    second: Scarecrow_2
+  - first:
+      213: -8626365529436468613
+    second: Scarecrow_3
+  - first:
+      213: -4355840616382916082
+    second: Scarecrow_4
+  - first:
+      213: 292636519235389840
+    second: Scarecrow_5
+  - first:
+      213: 1831563344878095847
+    second: Scarecrow_6
+  - first:
+      213: 2146876907737019000
+    second: Scarecrow_7
+  - first:
+      213: -3663706258321544926
+    second: Scarecrow_8
+  - first:
+      213: -8478146019951169767
+    second: Scarecrow_9
+  - first:
+      213: -4192055382553564619
+    second: Scarecrow_10
+  - first:
+      213: 7679371603727198292
+    second: Scarecrow_11
+  - first:
+      213: 1922212057751865718
+    second: Scarecrow_12
+  - first:
+      213: -4267580330771323643
+    second: Scarecrow_13
+  - first:
+      213: 6648007505841168833
+    second: Scarecrow_14
+  - first:
+      213: -149880137994384522
+    second: Scarecrow_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scarecrow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2f39e72e2080460800000000000000
+      internalID: 7208014375415968472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae92af568c3e09c0800000000000000
+      internalID: -3959160474584310100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62da1388e7ce070800000000000000
+      internalID: 8137017750165726945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac343614ef84880800000000000000
+      internalID: -8626365529436468613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a1742a902fc83c0800000000000000
+      internalID: -4355840616382916082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09905512d57af0400800000000000000
+      internalID: 292636519235389840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc51b78250b6910800000000000000
+      internalID: 1831563344878095847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87277264c2d3bcd10800000000000000
+      internalID: 2146876907737019000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296e57b196e72dc0800000000000000
+      internalID: -3663706258321544926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f2bee2d13975a80800000000000000
+      internalID: -8478146019951169767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a612c07d3d2d5c0800000000000000
+      internalID: -4192055382553564619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458a16a59cb929a60800000000000000
+      internalID: 7679371603727198292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c545aea11daa10800000000000000
+      internalID: 1922212057751865718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5056eedbc4286c4c0800000000000000
+      internalID: -4267580330771323643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c12bc99a97724c50800000000000000
+      internalID: 6648007505841168833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b45fffec48bedf0800000000000000
+      internalID: -149880137994384522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 68cd46e0d195c154e8774d1bea7a319c, type: 3}
+      name: _NormalMap
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
